@@ -1,0 +1,1 @@
+{"id":"988c9651-b75d-453a-a33e-f6d8e6a41937","space":26567,"runtime":"python3.9","name":"delta_micro","path":"ari1o1","project":"b01e8d35","account":"144798365827","region":"us-east-1","deps":["fastapi\u003e=0.68.0,\u003c0.69.0","pydantic\u003e=1.8.0,\u003c2.0.0","uvicorn\u003e=0.15.0,\u003c0.16.0"],"envs":null,"public":true,"log_level":"off","cron":""}
